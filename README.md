@@ -1,2 +1,2 @@
-# Mugiwaraflix
-Página inicial de um streaming de filmes, tecnologia utilizadas.
+# Musicflix
+Página inicial de um site feito para recomendar musicas pelo youtube.
