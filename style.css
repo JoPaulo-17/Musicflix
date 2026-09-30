@@ -6,9 +6,9 @@ body{
 header{
     padding: 40px;
     background-color: black;
-    border-bottom: 5px dotted;
-    border-color: rgb(238, 74, 74);
+    border-color: yellow;
 }
+
 .menu{
     padding-top: 80px;
     padding-left: 80px;
